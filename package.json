@@ -25,6 +25,7 @@
     "docs:build": "pnpm run update && vitepress build",
     "docs:serve": "vitepress serve",
     "update": "tsx scripts/update.ts",
+    "fix-line-endings": "node scripts/fix-line-endings.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
