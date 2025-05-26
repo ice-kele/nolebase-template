@@ -2,40 +2,40 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: icekele的知识库
+titleTemplate: 记录学习、项目和成长的地方
 
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: icekele
+  text: 机电工程师的知识库
+  tagline: 记录学习历程、项目经验和技术成长，分享机械电子工程与软件开发的融合之路
   image:
     src: /logo.svg
-    alt: Vitest
+    alt: icekele
   actions:
     - theme: brand
       text: 开始阅读
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
+      text: 关于我
+      link: /笔记/个人介绍
     - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      text: 项目展示
+      link: /笔记/项目展示
 
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
-    icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
-    icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
-    icon: 🚀
-  - title: 由 Obsidian 驱动
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
-    icon: 🗃
+  - title: 学术成就
+    details: 2025年率队参加全国大学生计算机应用能力与数字素养大赛暨第七届传智杯微信小程序大赛B组荣获全国总决赛一等奖，第八届"挑战杯"大学生课外学术科技作品竞赛校级二等奖。
+    icon: �
+  - title: 项目经验
+    details: 主导开发《小Q社区综合服务平台》微信小程序，日访问量达1000+，获得软件著作权登记，与企业签订合作协议。
+    icon: �
+  - title: 技术融合
+    details: 机械电子工程专业背景，结合软件开发技能，专注于工程技术与信息技术的跨领域融合创新。
+    icon: ⚙️
+  - title: 知识分享
+    details: 使用 Markdown 记录学习笔记、项目文档和技术心得，基于 VitePress 构建的现代化知识库平台。
+    icon: �
 ---
 
 <HomePage />
